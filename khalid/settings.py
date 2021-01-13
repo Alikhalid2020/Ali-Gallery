@@ -111,7 +111,7 @@ WSGI_APPLICATION = 'khalid.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'test',
+        'NAME': 'gallery',
         'USER': 'morninga',
     'PASSWORD':'Alikhalid3436',
     }
