@@ -1,1 +1,1 @@
-web: gunicorn khalid.wsi --log-file -
+web: gunicorn khalid.wsgi --log-file -
